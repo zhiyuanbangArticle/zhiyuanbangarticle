@@ -87,4 +87,18 @@
     gong_cheng_zao_jia
     li_shi_xue
     ren_li_zi_yuan_guan_li
+    shi_chang_ying_xiao
+    cheng_shi_guan_li
+    gong_cheng_li_xue
+    cai_wu_guan_li
+    lao_dong_yu_she_hui_bao_zhang
+    ji_xie_she_ji_zhi_zao_ji_qi_zi_dong_hua
+    xin_xi_guan_li_yu_xin_xi_xi_tong
+    gong_shang_guan_li_lei
+    shen_ji_xue
+    shi_pin_zhi_liang_yu_an_quan
+    xing_zheng_guan_li
+    sheng_tai_xue
+    sheng_wu_gong_cheng
+    dong_wu_ke_xue
     :maxdepth: 1
