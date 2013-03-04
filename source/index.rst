@@ -10,6 +10,12 @@
 目录:
 
 .. toctree::
+    jing_ji_xue
+    jin_rong_xue
+    shui_shou_xue
+    mao_yi_jing_ji
+    guo_ji_jing_ji_yu_mao_yi
+    tou_zi_xue
     cai_kuang_gong_cheng
     gao_fen_zi_cai_liao_yu_gong_cheng
     shui_li_shui_dian_gong_cheng
